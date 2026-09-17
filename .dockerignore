@@ -1,0 +1,12 @@
+.git
+.gitignore
+.venv
+venv
+__pycache__
+*.md
+data
+samples
+frontend
+*.zip
+.idea
+.vscode

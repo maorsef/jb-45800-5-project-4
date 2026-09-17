@@ -1,0 +1,10 @@
+Kaggle Dogs vs Cats
+https://www.kaggle.com/c/dogs-vs-cats
+
+Educational filtered subset (cats_and_dogs_filtered):
+- train/cat: 500
+- train/dog: 500
+- validation/cat: 150
+- validation/dog: 150
+
+Images resized to max 256px for the repository.
